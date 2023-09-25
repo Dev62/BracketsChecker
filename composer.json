@@ -1,0 +1,18 @@
+{
+    "name": "dev62/brackets-checker",
+    "description": "check brackets",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandr Lobanov",
+            "email": "dev62@yandex.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dev62\\BracketsChecker\\": "src/"
+        }
+    }
+}
